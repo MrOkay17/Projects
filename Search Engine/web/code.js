@@ -1,7 +1,5 @@
 /* jshint esversion: 6 */
 
-
-
 const keyBoard = document.getElementById('searchbox');
 
 keyBoard.addEventListener('keydown', e => {
