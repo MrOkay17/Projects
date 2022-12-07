@@ -1,22 +1,3 @@
-AVAILABLE
-1 kg tomato
-200 g apple
-600 g rice
-2 kg fish
-900 g milk
-150 g potatoes
-RECIPE 1
-700 g milk 
-1 kg rice
-200 g cinnamon 
-RECIPE 2
-1 kg apple
-500 g flour 
-500 g milk 
-300 g almond
-300 g sugar 
-RECIPE 3
-200 g fish
-500 g carrots 
-450 g potatoes  
-300 g broccoli
+version https://git-lfs.github.com/spec/v1
+oid sha256:10e175611b49bd01a8487abbb290f046ac999e111e3a5c512bba089d8a01003d
+size 265
